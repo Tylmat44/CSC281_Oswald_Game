@@ -1,9 +1,9 @@
 /// @DnDAction : YoYo Games.Common.If_Variable
 /// @DnDVersion : 1
 /// @DnDHash : 380A6B48
-/// @DnDArgument : "var" "movement"
+/// @DnDArgument : "var" "isMoving"
 /// @DnDArgument : "value" "1"
-if(movement == 1)
+if(isMoving == 1)
 {
 	/// @DnDAction : YoYo Games.Instances.Sprite_Animation_Speed
 	/// @DnDVersion : 1
@@ -15,8 +15,8 @@ if(movement == 1)
 /// @DnDAction : YoYo Games.Common.If_Variable
 /// @DnDVersion : 1
 /// @DnDHash : 50D7B50F
-/// @DnDArgument : "var" "movement"
-if(movement == 0)
+/// @DnDArgument : "var" "isMoving"
+if(isMoving == 0)
 {
 	/// @DnDAction : YoYo Games.Instances.Sprite_Animation_Speed
 	/// @DnDVersion : 1
