@@ -127,6 +127,14 @@
             }
         },
         {
+            "Key": "59d0a17b-906d-4cf6-9668-a53530f2343b",
+            "Value": {
+                "id": "e1f71d7e-54c1-4adf-b986-41802d82ca99",
+                "resourcePath": "rooms\\Japan\\Japan.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "5ac09059-0b28-42be-8834-56099a617664",
             "Value": {
                 "id": "bcdaf07b-4d1e-4c20-ba6f-9f26605b81a3",
@@ -140,6 +148,14 @@
                 "id": "6c0ea6a7-6238-4506-8a6b-f927af51d3a0",
                 "resourcePath": "views\/6758044b-0962-4878-adec-6c5dfc8ed1ae.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "76e53930-bd30-43f6-87d0-11df532cc58c",
+            "Value": {
+                "id": "b7fc38c7-f5c9-4292-862a-05e9bfe1e52e",
+                "resourcePath": "sprites\\spr_grass\\spr_grass.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

@@ -28,9 +28,9 @@ if(canMove == 1)
 	/// @DnDHash : 37493D94
 	/// @DnDParent : 15D9FA73
 	/// @DnDArgument : "imageind_relative" "1"
-	/// @DnDArgument : "spriteind" "spr_player_left"
-	/// @DnDSaveInfo : "spriteind" "c9b1a72c-1e32-4414-9ad3-c9a5a989f4ac"
-	sprite_index = spr_player_left;
+	/// @DnDArgument : "spriteind" "spr_player_up"
+	/// @DnDSaveInfo : "spriteind" "214ff6dc-edd7-4543-abd4-f7968370ae14"
+	sprite_index = spr_player_up;
 	image_index += 0;
 }
 
