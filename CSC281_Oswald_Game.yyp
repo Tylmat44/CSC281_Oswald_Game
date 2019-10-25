@@ -151,6 +151,14 @@
             }
         },
         {
+            "Key": "5df7a403-408d-493d-b3c0-bec3575dc239",
+            "Value": {
+                "id": "244d8be6-cc1b-455e-8965-db12829efe50",
+                "resourcePath": "objects\\obj_text\\obj_text.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "6758044b-0962-4878-adec-6c5dfc8ed1ae",
             "Value": {
                 "id": "6c0ea6a7-6238-4506-8a6b-f927af51d3a0",
@@ -204,6 +212,14 @@
                 "id": "f810b099-6253-4a89-9394-73a3f3aaed8c",
                 "resourcePath": "views\/97b61984-6cec-4d17-8b6c-9847cfc0fdee.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9f1a954e-f852-497f-855d-579731577674",
+            "Value": {
+                "id": "38f48f3d-9839-4358-aa70-aba47546ca24",
+                "resourcePath": "sprites\\spr_npc001_down\\spr_npc001_down.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -308,6 +324,14 @@
                 "id": "084ad50b-2fdd-4f10-8df6-115c9a2b5d3b",
                 "resourcePath": "sprites\/spr_puzzle_background\/spr_puzzle_background.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "fae5d7ac-5d42-42f4-bee4-c87347216748",
+            "Value": {
+                "id": "bf2b1e6e-7ac3-4bb5-b409-2e78af3b061c",
+                "resourcePath": "fonts\\fnt_font\\fnt_font.yy",
+                "resourceType": "GMFont"
             }
         },
         {

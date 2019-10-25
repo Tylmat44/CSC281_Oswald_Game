@@ -1,0 +1,1 @@
+scr_text("This is a text string",0.5, "Instances".x + 50, "Instances".y + 50);
