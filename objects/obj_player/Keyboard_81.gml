@@ -1,1 +1,1 @@
-scr_text("This is a text string",0.5, "Instances".x + 50, "Instances".y + 50);
+scr_text("Thi is a test\n string.",0.5, obj_player.x + 50, obj_player.y + 50);
