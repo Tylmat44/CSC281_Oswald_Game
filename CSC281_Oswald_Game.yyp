@@ -66,7 +66,7 @@
             "Key": "16105952-45cc-4f5a-a787-9e6c3418a6cf",
             "Value": {
                 "id": "5adb5fe3-90bc-42c3-839d-f5f2e1b7d7bb",
-                "resourcePath": "scripts\\scr_text\\scr_text.yy",
+                "resourcePath": "scripts\/scr_text\/scr_text.yy",
                 "resourceType": "GMScript"
             }
         },
@@ -138,7 +138,7 @@
             "Key": "59d0a17b-906d-4cf6-9668-a53530f2343b",
             "Value": {
                 "id": "e1f71d7e-54c1-4adf-b986-41802d82ca99",
-                "resourcePath": "rooms\\Japan\\Japan.yy",
+                "resourcePath": "rooms\/Japan\/Japan.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -154,7 +154,7 @@
             "Key": "5df7a403-408d-493d-b3c0-bec3575dc239",
             "Value": {
                 "id": "244d8be6-cc1b-455e-8965-db12829efe50",
-                "resourcePath": "objects\\obj_text\\obj_text.yy",
+                "resourcePath": "objects\/obj_text\/obj_text.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -170,15 +170,23 @@
             "Key": "6a51ba51-c308-4451-ad42-8d31173d3ba9",
             "Value": {
                 "id": "0846c8f6-4e8c-4b0c-aa62-a4cd1c2a429e",
-                "resourcePath": "objects\\obj_NPC001\\obj_NPC001.yy",
+                "resourcePath": "objects\/obj_NPC001\/obj_NPC001.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "76864462-7543-45f3-9d46-0c8fb34ee2db",
+            "Value": {
+                "id": "fee2d3a8-3d68-4293-b7ff-6dd5d43810a4",
+                "resourcePath": "scripts\/exitDialog\/exitDialog.yy",
+                "resourceType": "GMScript"
             }
         },
         {
             "Key": "76e53930-bd30-43f6-87d0-11df532cc58c",
             "Value": {
                 "id": "b7fc38c7-f5c9-4292-862a-05e9bfe1e52e",
-                "resourcePath": "sprites\\spr_grass\\spr_grass.yy",
+                "resourcePath": "sprites\/spr_grass\/spr_grass.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -215,6 +223,14 @@
             }
         },
         {
+            "Key": "95e472e8-034c-4b3c-81e8-a18f4a4ad030",
+            "Value": {
+                "id": "1ed3cf67-742a-4d3d-8801-0125f4a65bd2",
+                "resourcePath": "scripts\/increaseLoyalty\/increaseLoyalty.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "97b61984-6cec-4d17-8b6c-9847cfc0fdee",
             "Value": {
                 "id": "f810b099-6253-4a89-9394-73a3f3aaed8c",
@@ -226,7 +242,7 @@
             "Key": "9f1a954e-f852-497f-855d-579731577674",
             "Value": {
                 "id": "38f48f3d-9839-4358-aa70-aba47546ca24",
-                "resourcePath": "sprites\\spr_npc001_down\\spr_npc001_down.yy",
+                "resourcePath": "sprites\/spr_npc001_down\/spr_npc001_down.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -266,7 +282,7 @@
             "Key": "c381e48a-d7b0-4623-b963-7637ce26c252",
             "Value": {
                 "id": "fb213fd8-0b6f-4de4-8766-d0d6a2a58e4b",
-                "resourcePath": "objects\\obj_loyalty_bar\\obj_loyalty_bar.yy",
+                "resourcePath": "objects\/obj_loyalty_bar\/obj_loyalty_bar.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -306,7 +322,7 @@
             "Key": "ec6397e2-0600-4507-94dd-b402dd851ae4",
             "Value": {
                 "id": "aba64011-8328-4759-a625-3346c9793cea",
-                "resourcePath": "fonts\\fnt_numbers\\fnt_numbers.yy",
+                "resourcePath": "fonts\/fnt_numbers\/fnt_numbers.yy",
                 "resourceType": "GMFont"
             }
         },
@@ -338,7 +354,7 @@
             "Key": "fae5d7ac-5d42-42f4-bee4-c87347216748",
             "Value": {
                 "id": "bf2b1e6e-7ac3-4bb5-b409-2e78af3b061c",
-                "resourcePath": "fonts\\fnt_font\\fnt_font.yy",
+                "resourcePath": "fonts\/fnt_font\/fnt_font.yy",
                 "resourceType": "GMFont"
             }
         },
@@ -352,7 +368,9 @@
         }
     ],
     "script_order": [
-        "16105952-45cc-4f5a-a787-9e6c3418a6cf"
+        "16105952-45cc-4f5a-a787-9e6c3418a6cf",
+        "95e472e8-034c-4b3c-81e8-a18f4a4ad030",
+        "76864462-7543-45f3-9d46-0c8fb34ee2db"
     ],
     "tutorial": ""
 }
