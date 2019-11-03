@@ -1,0 +1,4 @@
+arm1 = collision_ellipse( x + (4 * image_xscale), y + (91 * image_yscale), x +  (104 * image_xscale), y +  (129 * image_yscale), obj_scope, false, true );
+arm2 = collision_ellipse( x + (177 * image_xscale), y + (91 * image_yscale), x +  (277 * image_xscale), y +  (129 * image_yscale), obj_scope, false, true );
+head = collision_ellipse( x + (114 * image_xscale), y + (2 * image_yscale), x +  (169 * image_xscale), y +  (61 * image_yscale), obj_scope, false, true );
+body = collision_ellipse( x + (91 * image_xscale), y + (62 * image_yscale), x +  (191 * image_xscale), y +  (241 * image_yscale), obj_scope, false, true );
