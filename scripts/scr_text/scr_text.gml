@@ -1,6 +1,6 @@
 // scr_text( text_string , text_speed, pos_x, pos_y )
 
-txt = instance_create_layer(argument2,argument3,"Test",obj_text);
+txt = instance_create_layer(argument2,argument3,"Instances",obj_text);
 
 
 with (txt){
