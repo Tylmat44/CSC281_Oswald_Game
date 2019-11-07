@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "0d225c33-d19f-4317-82ce-9cf5b3d4c943",
+            "Value": {
+                "id": "cc8d8457-d2a2-4b61-8d1a-bbb39f9f3cd2",
+                "resourcePath": "rooms\/fortWorth\/fortWorth.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "0dd8cc64-add3-4978-8d4d-cee4b360c3ac",
             "Value": {
                 "id": "24a30bf0-095b-44df-92ba-e54a08ebb24f",
@@ -103,10 +111,26 @@
             }
         },
         {
+            "Key": "1a3863b9-c3ad-408a-953d-6e3ec4158a51",
+            "Value": {
+                "id": "32674fa4-b558-4790-b38a-27bfef66b181",
+                "resourcePath": "views\/1a3863b9-c3ad-408a-953d-6e3ec4158a51.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "1e9a3e61-5d5e-4547-bb05-eb590dc8b2dd",
             "Value": {
                 "id": "b5859cfa-537f-4c55-833d-96892e30b82b",
                 "resourcePath": "sprites\/spr_wall_background\/spr_wall_background.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "1fc67a35-6247-4f8f-a5c0-ddeecdbb9599",
+            "Value": {
+                "id": "d4f45260-886c-4fbe-a2ef-35a284f6498a",
+                "resourcePath": "sprites\/spr_grey_ground\/spr_grey_ground.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -279,6 +303,14 @@
             }
         },
         {
+            "Key": "81b8dfcf-fc96-4f87-ad73-659ea906b1eb",
+            "Value": {
+                "id": "b5fc7a7e-ad6a-4ede-a407-df58ef6e0130",
+                "resourcePath": "rooms\/sovietUnion\/sovietUnion.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "94e08c48-724f-484b-b8e5-162c29769ed8",
             "Value": {
                 "id": "fcf70690-4bbc-4dfc-9bee-35dcedee1681",
@@ -396,6 +428,14 @@
                 "id": "fb213fd8-0b6f-4de4-8766-d0d6a2a58e4b",
                 "resourcePath": "objects\/obj_loyalty_bar\/obj_loyalty_bar.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "c8101d8c-c826-4da7-852e-b925b8398cbc",
+            "Value": {
+                "id": "5dc3c6af-f615-401e-85f2-667a794ff5d8",
+                "resourcePath": "scripts\/decreaseLoyalty\/decreaseLoyalty.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -537,12 +577,13 @@
     ],
     "script_order": [
         "16105952-45cc-4f5a-a787-9e6c3418a6cf",
-        "95e472e8-034c-4b3c-81e8-a18f4a4ad030",
         "76864462-7543-45f3-9d46-0c8fb34ee2db",
         "0220284d-b226-4723-a3c7-7d8696eb4f08",
         "a78c73c8-01c9-42fa-a811-8b66d27d8808",
         "e7f4ba32-0a1e-4e87-a9f1-fea6b1b52f80",
-        "09b4e9ee-b299-40fd-aa6d-6af248a7daf6"
+        "09b4e9ee-b299-40fd-aa6d-6af248a7daf6",
+        "95e472e8-034c-4b3c-81e8-a18f4a4ad030",
+        "c8101d8c-c826-4da7-852e-b925b8398cbc"
     ],
     "tutorial": ""
 }

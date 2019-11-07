@@ -1,3 +1,6 @@
+global.canMoveOn = true; 
+obj_arrow.visible = true; 
+
 
 // destroy the old dialog 
 with( obj_text ) {
