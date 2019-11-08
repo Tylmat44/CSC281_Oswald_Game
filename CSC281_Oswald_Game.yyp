@@ -279,6 +279,14 @@
             }
         },
         {
+            "Key": "39ac46e2-8622-4512-82d7-85be75880675",
+            "Value": {
+                "id": "34becd6b-64ca-4be1-8d97-9eb0f9e2cbcd",
+                "resourcePath": "objects\\obj_intro\\obj_intro.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "3a735bd8-dc4d-40c0-8177-42802541a0ec",
             "Value": {
                 "id": "d58c6a6d-c9b2-4929-ac51-c1e54d68808e",
@@ -423,6 +431,14 @@
             }
         },
         {
+            "Key": "741d68c7-a0f9-46f8-89a5-f7b293f2f216",
+            "Value": {
+                "id": "94fda294-af3b-4817-b447-a89175c95db7",
+                "resourcePath": "scripts\\scr_text_custom\\scr_text_custom.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "76864462-7543-45f3-9d46-0c8fb34ee2db",
             "Value": {
                 "id": "fee2d3a8-3d68-4293-b7ff-6dd5d43810a4",
@@ -492,6 +508,14 @@
                 "id": "b5fc7a7e-ad6a-4ede-a407-df58ef6e0130",
                 "resourcePath": "rooms\/sovietUnion\/sovietUnion.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "8ab4ab6d-883d-47f8-b01f-c8a4dbb10889",
+            "Value": {
+                "id": "e9679dac-0ea8-4ffa-9971-c94c8af97776",
+                "resourcePath": "objects\\obj_big_text\\obj_big_text.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -703,6 +727,14 @@
             }
         },
         {
+            "Key": "c8661225-0b7c-4732-b3e9-3eadbff4b5fe",
+            "Value": {
+                "id": "d7bf8f5e-f198-413d-8487-b6c0227f0736",
+                "resourcePath": "fonts\\fnt_big_text\\fnt_big_text.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "c9b1a72c-1e32-4414-9ad3-c9a5a989f4ac",
             "Value": {
                 "id": "dddb7772-a357-436b-bb87-4982aaa2fc39",
@@ -780,6 +812,14 @@
                 "id": "d8da00ca-d8ae-4b63-b693-06f001f63104",
                 "resourcePath": "scripts\/mother1_2_continued\/mother1_2_continued.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "e8bdb674-724f-4396-bb0a-f6f425364d5c",
+            "Value": {
+                "id": "9cd6c672-a1e1-4af6-957a-3fa55febec2a",
+                "resourcePath": "rooms\\Intro\\Intro.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -889,6 +929,7 @@
     ],
     "script_order": [
         "16105952-45cc-4f5a-a787-9e6c3418a6cf",
+        "741d68c7-a0f9-46f8-89a5-f7b293f2f216",
         "76864462-7543-45f3-9d46-0c8fb34ee2db",
         "0220284d-b226-4723-a3c7-7d8696eb4f08",
         "a78c73c8-01c9-42fa-a811-8b66d27d8808",
