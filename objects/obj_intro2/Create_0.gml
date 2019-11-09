@@ -10,11 +10,11 @@ the first time, life seemed to be looking in a positive direction. [That wouldn�
 */ 
 
 msg[1] = "Saying my childhood was filled with hardship and uncertainty would be the understatement of the century.";
-msg[2] = "Born in the Big Easy, life didn’t start out as easy as the name may imply. My father died shortly before";
+msg[2] = "Born in the Big Easy, life didn't start out as easy as the name may imply. My father died shortly before";
 msg[3] = "I was born, and Mom was left to take care of me and my two older brothers, Robert and John. Money was always";
 msg[4] = "a problem, so much that Mom was eventually forced to place all three of us in a children’s home because she";
-msg[5] = "couldn’t financially support a family. Memories from this time in my life are hard to find, mostly because life";
-msg[6] = "in the orphanage was so mundane and depressing. It wasn’t until I reached the age of 5 when Mom finally came back";
+msg[5] = "couldn't financially support a family. Memories from this time in my life are hard to find, mostly because life";
+msg[6] = "in the orphanage was so mundane and depressing. It wasn't until I reached the age of 5 when Mom finally came back";
 msg[7] = "for us. She married an electrical engineer from Texas named Edwin and was finally able to support us again. For ";
 msg[8] = "the first time, life seemed to be looking in a positive direction. [That wouldn’t last long.";
 

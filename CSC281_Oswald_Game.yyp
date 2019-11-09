@@ -375,6 +375,14 @@
             }
         },
         {
+            "Key": "56f45231-2c05-4a4c-9dfd-51492b22d813",
+            "Value": {
+                "id": "b6e70f39-edbd-46b6-9f34-0095d0a15389",
+                "resourcePath": "scripts\\mother3\\mother3.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "590bdc8b-a723-415a-9801-f6c8b411cf8d",
             "Value": {
                 "id": "e02d2c41-1667-42d4-acdf-f909abf5109a",
@@ -444,6 +452,14 @@
                 "id": "6c0ea6a7-6238-4506-8a6b-f927af51d3a0",
                 "resourcePath": "views\/6758044b-0962-4878-adec-6c5dfc8ed1ae.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "69b0b597-b976-4b10-8cf1-6c9d060c4f2b",
+            "Value": {
+                "id": "594fbeda-0768-4415-9e5a-cf3a6b663d83",
+                "resourcePath": "sprites\\spr_black\\spr_black.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -631,6 +647,14 @@
             }
         },
         {
+            "Key": "9f52c54f-61e6-4597-8dd3-0e15b222dbcf",
+            "Value": {
+                "id": "6c1b3895-ccac-416a-a25f-3e4e5b6d3106",
+                "resourcePath": "objects\\obj_motherConvo4\\obj_motherConvo4.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a6e0288c-5051-46a2-9009-b6d7e571fc57",
             "Value": {
                 "id": "b4481b94-6e26-448d-9e49-2a80eb13ca33",
@@ -759,6 +783,22 @@
             }
         },
         {
+            "Key": "c1ffc214-0543-484b-900d-9b210f58c1aa",
+            "Value": {
+                "id": "907c6e37-b93f-4862-9bd4-9f64b0ed318e",
+                "resourcePath": "objects\\obj_motherConvo3\\obj_motherConvo3.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "c3591624-6d02-4f52-9a6a-851b53734c9c",
+            "Value": {
+                "id": "14a22b75-0a43-4cd8-bcab-30c7d4ffa232",
+                "resourcePath": "objects\\obj_motherConvo1\\obj_motherConvo1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "c35ac274-5ef9-408e-9fd1-64818582c6ae",
             "Value": {
                 "id": "070a31bd-0ae0-4056-9b58-7b8cef50508f",
@@ -855,6 +895,14 @@
             }
         },
         {
+            "Key": "d2de2aaa-f2e8-411f-a20c-2a65f9b21745",
+            "Value": {
+                "id": "899c5883-72b9-49fb-98da-ce2c40af86fe",
+                "resourcePath": "objects\\obj_black\\obj_black.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "d3d38f4f-6489-4637-9163-ca06fa4509bb",
             "Value": {
                 "id": "811309f6-f39f-49ca-b8fe-9f9de8a5db8a",
@@ -884,6 +932,22 @@
                 "id": "7d0254ae-f885-4927-bc23-63a65f54fe40",
                 "resourcePath": "sprites\/spr_dummy\/spr_dummy.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e1ae7779-8dd4-4524-a218-4c8aa78361b9",
+            "Value": {
+                "id": "f71c448e-b74b-415d-a7c4-15ee27061f37",
+                "resourcePath": "scripts\\mother4\\mother4.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "e594e5a5-e470-4c1f-9733-c0548450cc0e",
+            "Value": {
+                "id": "ff9dad66-7705-480d-a5ab-12c6851c5216",
+                "resourcePath": "objects\\obj_custom_text\\obj_custom_text.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1016,6 +1080,8 @@
         "dc7abffe-e2d2-4ccc-92f7-217c9de73eb8",
         "bc23977d-ecf3-4342-86dd-fc70a38ced94",
         "c5387999-8246-45e1-a9ff-4a1fd8ef110d",
+        "e1ae7779-8dd4-4524-a218-4c8aa78361b9",
+        "56f45231-2c05-4a4c-9dfd-51492b22d813",
         "95e472e8-034c-4b3c-81e8-a18f4a4ad030",
         "c8101d8c-c826-4da7-852e-b925b8398cbc",
         "14c55722-4849-405c-9785-10b05d1ac1a7"

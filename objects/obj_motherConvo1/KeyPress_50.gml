@@ -1,0 +1,3 @@
+if(finished){
+	mother4();	
+}

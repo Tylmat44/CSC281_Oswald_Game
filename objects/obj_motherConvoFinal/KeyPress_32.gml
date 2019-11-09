@@ -25,8 +25,10 @@ if(hasTalked) {
 		}
 		
 		
-		obj_arrow.visible = true; 
-		global.canMoveOn = true; 
+		/** obj_arrow.visible = true; 
+		global.canMoveOn = true; */
+		
+		room_goto(target);
 		
 	}
 	
