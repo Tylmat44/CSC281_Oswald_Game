@@ -1,7 +1,7 @@
 // scr_text_custom( text_string , text_speed, pos_x, pos_y, font )
 
 txt = instance_create_layer(argument2,argument3,"Instances",argument5);
-
+txt.depth = -1000;
 
 with (txt){
 

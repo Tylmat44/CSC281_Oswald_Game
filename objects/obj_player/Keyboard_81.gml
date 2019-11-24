@@ -1,4 +1,3 @@
-
-scr_text("choice1",0.5, obj_player.x + 50, obj_player.y + 50);
-
-
+timeline_index = timeline0;
+timeline_position = 0;
+timeline_running = true;
