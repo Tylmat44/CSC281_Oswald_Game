@@ -4,7 +4,8 @@
     "mvc": "1.1",
     "name": "c93abb62-1f11-4878-8f3a-71d72e9e4bc2",
     "children": [
-        "87579f8c-29e6-4574-9274-1e39e3a9ff31"
+        "87579f8c-29e6-4574-9274-1e39e3a9ff31",
+        "45d15746-dce8-4617-b262-f323f449e6b6"
     ],
     "filterType": "GMObject",
     "folderName": "Japan",

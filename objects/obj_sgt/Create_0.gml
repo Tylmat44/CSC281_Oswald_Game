@@ -1,0 +1,1 @@
+isMoving = 0;

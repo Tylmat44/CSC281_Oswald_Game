@@ -1,3 +1,4 @@
+if(freeze == 0 ) {
 if(canMove == 1)
 {
 	isMoving = 1;
@@ -12,4 +13,5 @@ if(canMove == 1)
 if(canMove == 0)
 {
 	isMoving = 0;
+}
 }

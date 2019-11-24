@@ -1,0 +1,1 @@
+path_start(bullet_fire, 5, path_action_restart, false);
