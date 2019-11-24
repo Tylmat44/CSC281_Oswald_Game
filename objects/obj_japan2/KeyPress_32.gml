@@ -1,5 +1,17 @@
 if( i == 1 ) {
 	closeDialog(box);
 	box = obj_custom_text;
-	scr_text_custom( "For this exercise you'll be saving fellow\n soldiers while dodging bullet fire.\nGet a move on private." , 1, obj_sgt.x - 75, obj_sgt.y - 17, fnt_font, box );
+	scr_text_custom( "For this exercise you'll be saving fellow\nsoldiers while dodging bullet fire.\nGet a move on private." , 1, 225, 606, fnt_font, box );
+	i++;
+}
+if( i == 2) {
+	closeDialog(box);
+	global.rescueEvent = true;
+	global.rescueCounter = 0;
+	i++;
+}
+
+if(next){
+	closeDialog(box);
+	room_goto(target);
 }

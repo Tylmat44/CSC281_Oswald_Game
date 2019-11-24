@@ -759,6 +759,14 @@
             }
         },
         {
+            "Key": "bcec04f8-a094-4d82-bd40-b90ccc21c68b",
+            "Value": {
+                "id": "52b6046d-7f4a-48bd-966b-b1425ffcd5d7",
+                "resourcePath": "paths\\bullet_fire2\\bullet_fire2.yy",
+                "resourceType": "GMPath"
+            }
+        },
+        {
             "Key": "bd3b57fe-6d37-4065-ab37-218a6b6f32c2",
             "Value": {
                 "id": "466a112a-1a24-40d5-a3ec-1489f6abc385",
@@ -812,6 +820,14 @@
                 "id": "ec6d350d-d7a8-41da-a3b7-7cc3f8546530",
                 "resourcePath": "scripts\/mother1\/mother1.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "c6c66371-18db-4807-847b-6097c19179c9",
+            "Value": {
+                "id": "2c5d6a3a-4d86-4bcd-90e1-93888191f4bd",
+                "resourcePath": "objects\\obj_bullet2\\obj_bullet2.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1052,6 +1068,14 @@
                 "id": "60daa376-8452-45ee-8192-d81ffa488620",
                 "resourcePath": "sprites\/spr_mother_down1\/spr_mother_down1.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f96e882a-6307-4b69-92ab-a68b34fa66e4",
+            "Value": {
+                "id": "0861c899-2c05-4ce6-afb3-bf34194ef712",
+                "resourcePath": "rooms\\Japan3\\Japan3.yy",
+                "resourceType": "GMRoom"
             }
         },
         {

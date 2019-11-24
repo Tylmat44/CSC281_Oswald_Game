@@ -4,3 +4,6 @@ if(global.rescueEvent == true){
 	scr_text_custom("Save me!", 1, x + 75, y + 17, fnt_font, box);
 	rescue = false;
 }
+rescue = false;
+box = obj_custom_text;
+closeold=false

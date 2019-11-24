@@ -24,4 +24,4 @@ for(i = 2; i <= 10; i++) {
 
 obj_scope.visible = false;
 
-scr_text( "This is a sample of the marksman minigame used variously int he game,\n for example in the target range setting and even the assassination.\n Used WASD to aim and space to fire.\n Press space to begin." , .5, 328, 221)
+scr_text( "Alright private, lets see how you handle a rifle.\nUse WASD to aim and space to fire.\n Press space to begin." , .5, 328, 221)
