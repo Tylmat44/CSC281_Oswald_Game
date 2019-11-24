@@ -1,1 +1,0 @@
-isMoving = 0;

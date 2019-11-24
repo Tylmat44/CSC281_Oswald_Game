@@ -1,2 +1,0 @@
-box = obj_custom_text;
-scr_text_custom( "I had finally achieved something that seemed to evade me for all those years; being trapped within the confines of my mother's ferocious stranglehold to keep me close: freedom." , 1, 0, 670, fnt_font, box );
