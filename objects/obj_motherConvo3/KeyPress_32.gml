@@ -19,5 +19,5 @@ if (i != 5) {
 	
 } else {
 	global.loyalty -= .2;
-	room_goto(target);
+	room_goto(Base_Enterance);
 }
