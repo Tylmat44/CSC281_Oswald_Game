@@ -28,7 +28,7 @@ if(hasTalked) {
 		/** obj_arrow.visible = true; 
 		global.canMoveOn = true; */
 		
-		room_goto(Japan);
+		room_goto(Base_Enterance);
 		
 	}
 	

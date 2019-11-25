@@ -12,5 +12,5 @@ if (i <= 7) {
 		posy = temp/2;
 	}
 } else {
- room_goto(Japan5);
+ room_goto(final);
 }

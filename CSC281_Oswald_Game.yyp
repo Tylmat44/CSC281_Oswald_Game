@@ -359,6 +359,14 @@
             }
         },
         {
+            "Key": "4fbcd077-19f2-43a4-8675-8df7512789f8",
+            "Value": {
+                "id": "89948b85-519b-466d-8cd1-e326526f6100",
+                "resourcePath": "objects\\obj_japanl5\\obj_japanl5.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "5188a567-1776-4af6-9c25-5f85a9ea494e",
             "Value": {
                 "id": "853a6a5b-4f91-4338-a654-70a277fe6e5a",
@@ -471,6 +479,14 @@
             }
         },
         {
+            "Key": "61cdfd32-e8cf-443f-b4be-cf5d57acc9d1",
+            "Value": {
+                "id": "18c3eb82-85b3-40cc-bfde-8f32f12ce491",
+                "resourcePath": "rooms\\final\\final.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "62b66f1b-5094-436d-a797-219a3664ed37",
             "Value": {
                 "id": "d5700761-be7a-4ade-a6cf-df36a7b86f4e",
@@ -554,7 +570,7 @@
             "Key": "74db6c46-208c-4af7-b7fe-868736410b6b",
             "Value": {
                 "id": "81884a6d-e73f-499a-9649-a73f3943e42c",
-                "resourcePath": "objects\\obj_japan4\\obj_japan4.yy",
+                "resourcePath": "objects\\obj_japan6\\obj_japan6.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -727,6 +743,14 @@
             }
         },
         {
+            "Key": "9a1061c8-ea3d-444f-af86-9fafe79699e5",
+            "Value": {
+                "id": "988b9ced-3600-4396-a407-c0467e280143",
+                "resourcePath": "objects\\obj_japan4\\obj_japan4.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "9bd447a7-05bb-4a55-bf17-f41745a966bd",
             "Value": {
                 "id": "0af8374d-dd64-4901-bbfd-cb068aad7a15",
@@ -788,6 +812,14 @@
                 "id": "cf9af0bb-de1a-475d-9538-0b5a26018d40",
                 "resourcePath": "sprites\/spr_mother_right\/spr_mother_right.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "ada13782-d5f1-467a-a98c-7d8aa9943ce3",
+            "Value": {
+                "id": "f7feea83-a439-41cc-81be-46a5b3940f66",
+                "resourcePath": "rooms\\Japan6\\Japan6.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -932,6 +964,14 @@
                 "id": "5dc3c6af-f615-401e-85f2-667a794ff5d8",
                 "resourcePath": "scripts\/decreaseLoyalty\/decreaseLoyalty.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "c8413333-7645-46c2-beca-910f78075d26",
+            "Value": {
+                "id": "e03119a4-6375-42aa-ae91-a736818f9a87",
+                "resourcePath": "objects\\obj_final\\obj_final.yy",
+                "resourceType": "GMObject"
             }
         },
         {
