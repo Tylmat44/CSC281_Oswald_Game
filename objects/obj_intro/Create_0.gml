@@ -3,7 +3,7 @@ global.choices = ds_map_create();
 global.canMoveOn = true;
 global.loyalty = .1; 
 global.brotherCanMove = false; 
-
+global.rescueEvent = false;
 
 
 msg[1] = "How do we define patriotism?";
