@@ -1,0 +1,1 @@
+head = collision_ellipse( x + 70, y + (2 * image_yscale), x +  (169 * image_xscale), y +  (61 * image_yscale), obj_scope, false, true );
