@@ -3,6 +3,7 @@ if ( i == 1 ) {
 	if (position_meeting(520, 221, obj_player) ) {
 		closeDialog(obj_custom_text);
 		obj_player.freeze = 1;
+		spacetrg=true;
 		scr_text_custom("Name?", 1, obj_lady.x + 75, obj_lady.y + 17, fnt_font, box);
 		i++;
 	}

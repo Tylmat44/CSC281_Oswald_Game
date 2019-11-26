@@ -4,6 +4,7 @@ dialogue = false;
 nextDummy = false;
 roundOver = false;
 msg = 1;
+obj_player.freeze = 1;
 
 //Dummy array inizilization (GML SUCKS)
 dums[1] = dummy1;

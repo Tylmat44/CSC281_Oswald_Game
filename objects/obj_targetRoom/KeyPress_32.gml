@@ -54,6 +54,7 @@ if (roundOver) {
 	if (msg == 3) {
 		closeDialog(obj_text);
 		obj_targetRoom.visible = false;
+		room_goto(Japan3);
 	} else {
 		scr_text(message[msg], .5, 328, 221);
 		msg++;
