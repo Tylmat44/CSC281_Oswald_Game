@@ -303,6 +303,14 @@
             }
         },
         {
+            "Key": "3eda208f-b20c-4514-97a6-0781e82f4517",
+            "Value": {
+                "id": "fb0a2bde-3d73-4d87-907e-7e4e5cb14953",
+                "resourcePath": "objects\\obj_jfk\\obj_jfk.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "3f448a7d-8beb-4952-a06a-c7089f2eb468",
             "Value": {
                 "id": "961cc15f-6505-4669-a47e-361520e26671",
@@ -335,6 +343,14 @@
             }
         },
         {
+            "Key": "471f3023-7dd1-40cc-a205-9d1d073ad8cc",
+            "Value": {
+                "id": "929945c4-5bfa-4dcb-b0f8-1cbeb2a5d469",
+                "resourcePath": "objects\\obj_jfkscope\\obj_jfkscope.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "496b38ef-0107-4b27-9b38-fefc454f96f5",
             "Value": {
                 "id": "760fb0f8-f337-46a9-b1c1-afdc220954d5",
@@ -356,6 +372,14 @@
                 "id": "662c92e9-4f48-4321-88f9-64dfa32ce4e8",
                 "resourcePath": "sprites\/sprite6\/sprite6.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "4f8eb5c0-2690-4d82-8c3c-b9da9f1e88b5",
+            "Value": {
+                "id": "1a2c41f2-6e65-4798-b8ee-6a28bbe05364",
+                "resourcePath": "paths\\jfkcar\\jfkcar.yy",
+                "resourceType": "GMPath"
             }
         },
         {
@@ -468,6 +492,14 @@
                 "id": "244d8be6-cc1b-455e-8965-db12829efe50",
                 "resourcePath": "objects\/obj_text\/obj_text.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "5e85e55f-35f5-4845-a3bb-2a7f24e07cb4",
+            "Value": {
+                "id": "acd6888b-4bdd-455d-b34a-ee7aa7a43832",
+                "resourcePath": "rooms\\FinalAssassination\\FinalAssassination.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
