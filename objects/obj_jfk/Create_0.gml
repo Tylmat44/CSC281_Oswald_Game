@@ -1,1 +1,1 @@
-path_start(jfkcar, 2, path_action_stop, false);
+path_start(jfkcar, 4, path_action_stop, false);
